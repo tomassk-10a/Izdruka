@@ -1,4 +1,4 @@
-"""
+
 vards = input("Kā tevi sauc? ")
 print(f"Labdien, {vards}.")
 
@@ -19,7 +19,7 @@ print("sveika \tpasaule")
 print("sveika \npasaule")
 print(len("tomass"))
 print(len("! "))  #atstarpes un zimes
-"""
+
 myString = "Kokonut!"
 print(myString)
 print(myString[2])
