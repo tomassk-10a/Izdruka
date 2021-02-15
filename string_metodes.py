@@ -1,10 +1,10 @@
-"""
+
 #man -> gan
 vards = "man"
 pedBurti = vards[1:]
 print(pedBurti)
 print("g" + pedBurti)
-"""
+
 x = "Sveika pasaule "
 x = x + "good morning "
 x = x + "good morning "
