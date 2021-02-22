@@ -1,2 +1,2 @@
-import uzdevumi2
+import uzdevumi3
     
