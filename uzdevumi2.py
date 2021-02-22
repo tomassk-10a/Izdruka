@@ -1,3 +1,4 @@
+"""
 # 1.uzdevums
 a=15
 b=2.5
@@ -20,3 +21,18 @@ elif 35 <= temp <= 37:
 else:
     print("Iespējams drudzis!")
 
+print()
+atr = "banka"
+if atr == "veikls":
+    print("Pērc ābolu.")
+elif atr == "banka":
+    print("Naudas nav, ej prom!")
+elif atr == "apteika":
+    print("Pērc zāles.") 
+print()
+"""
+
+i = 0
+while i<5:
+    print("lol")
+    i += 1
