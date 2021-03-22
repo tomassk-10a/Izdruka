@@ -1,4 +1,4 @@
-"""
+
 # 1.uzdevums
 a=15
 b=2.5
@@ -30,7 +30,7 @@ elif atr == "banka":
 elif atr == "apteika":
     print("Pērc zāles.") 
 print()
-"""
+
 
 i = 0
 while i<5:

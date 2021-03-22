@@ -1,2 +1,2 @@
-import uzdevumi3
+import noderigi_operatori
     
