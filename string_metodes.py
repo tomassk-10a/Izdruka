@@ -1,4 +1,4 @@
-
+    
 #man -> gan
 vards = "man"
 pedBurti = vards[1:]
@@ -14,4 +14,3 @@ print(x.upper())
 print(x.lower())
 print(x.split())
 print(x.split("a"))
-
