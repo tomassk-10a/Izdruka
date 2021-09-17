@@ -1,0 +1,4 @@
+while True:
+    x = (input("Nosauc ciparu no  1-8 !         "))
+    y = {"1" : "Pirmais noteikums apgalvo, ka darba vietu ir ērti jāsakārto, pirms uzsākt darbu", "2" : "Rokām jābūt tīrām un sausām", "3" : " Spriegums elektrības kontaktos ir 220 V, un tas ir bīstams dzīvībai. Tāpēc nedrīkst aizskart kontaktligzdas vai ievietot tajās jebkādus priekšmetus.", "4" : "Aizliegts izdzēst datorā uzstādīto programmatūru un mainīt tā iestādnes, t.s. monitora darbavirsmas izskatu.", "5" : "Nedrīkst aizklāt ierīču ventilācijas spraugas vai ievietot tajās jebkādus priekšmetus.", "6" : "Datorklasē nedrīkst ēst, dzert un novietot datora tuvumā traukus ar šķidrumu.", "7" :  " Klasē jāievēro skolas iekšējās kārtības noteikumi un interneta lietošanas noteikumi.", "8" : "Darbu beidzot, pareizi jābeidz darba seanss (atteikšanās process vai dienas beigās jāizslēdz dators) un jāsakārto darba vieta - sakārtot darba galda virsmu, novietot vietā mācību līdzekļus, krēslu!"}
+    print(y[x])

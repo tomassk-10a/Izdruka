@@ -1,4 +1,4 @@
-"""
+
 def procenti(a,b):
     return a*0.1, b*0.2
 
@@ -46,7 +46,7 @@ def papagaila_problema(hour, runa):
 
 print(papagaila_problema(13, True))
 
-"""
+
 def poz_neg(a, b, negative):
     if a < 0 and b < 0 and negative:
         return True
