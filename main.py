@@ -1,1 +1,1 @@
-import otradiena2
+import lambda_funkcijas
